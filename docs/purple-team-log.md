@@ -22,7 +22,7 @@
 
 ## Skenario 1: Brute Force Testing (Target: PostgreSQL & Halaman Login)
 
-- **Waktu Eksekusi:** `2026-11-26 03:17:49 – 03:17:52 WIB` (durasi ±3 detik)
+- **Waktu Eksekusi:** `2026-11-26 03:17:49 WIB`
 - **PIC:** Red Team (`Adiko / Rafiyuda`) & Blue Team (`Calvin`)
 
 ### 1. Tahap Serang (Red Team)
