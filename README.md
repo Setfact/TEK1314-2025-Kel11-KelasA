@@ -2,3 +2,5 @@ Sebuah lingkungan laboratorium simulasi dibangun menggunakan satu segmen jaringa
 Target Server (192.168.16.5): Menjalankan sistem operasi Ubuntu Server di port Fa0/2 yang berfungsi sebagai server utama yang menyediakan layanan/aplikasi target.
 Attacker Node (192.168.16.100): Menggunakan OS Kali Linux di port Fa0/1, bertindak sebagai pihak luar yang mencoba mencari celah keamanan dan melancarkan serangan ke Target Server.
 Monitoring Node (192.168.16.200): Menggunakan Security Onion di port Fa0/3, bertindak sebagai tim pertahanan (Blue Team) yang memantau dan menganalisis seluruh lalu lintas data (traffic) di dalam Switch.
+
+Link drive video demo: https://drive.google.com/file/d/1dmvWG6j4T39Fc5BmdWcUsmekRrKQgpQ1/view?usp=sharing
