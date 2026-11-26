@@ -11,7 +11,7 @@
 
 | No | Skenario Serangan | Tahap 1 (Serang) | Tahap 2 (Deteksi) | Tahap 3 (Analisis) | Tahap 4 (Respons) | Tahap 5 (Verifikasi) | Status |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Brute Force (PostgreSQL & Login) | `[x]` | `[ ]` | `[x]` | `[x]` | `[x]` | Progress (Menunggu Log Blue Team) |
+| 1 | Brute Force (PostgreSQL & Login) | `[x]` | `[x]` | `[x]` | `[x]` | `[x]` | **Selesai** |
 | 2 | Sniffing Paket HTTP | `[x]` | `[ ]` | `[x]` | `[x]` | `[ ]` | Progress (Menunggu Uji Ulang TLS) |
 | 3 | Exploitation Dashboard & API | `[x]` | `[ ]` | `[x]` | `[x]` | `[ ]` | Progress (Menunggu Log & Verifikasi) |
 | 4 | MQTT Unauthorized Access | `[x]` | `[ ]` | `[x]` | `[x]` | `[ ]` | Progress (Menunggu Log & Verifikasi) |
