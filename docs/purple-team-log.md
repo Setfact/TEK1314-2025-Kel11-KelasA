@@ -14,9 +14,8 @@
 | 1 | Brute Force (PostgreSQL & Login) | `[x]` | `[x]` | `[x]` | `[x]` | `[x]` | **Selesai** |
 | 2 | Sniffing Paket HTTP | `[x]` | `[ ]` | `[x]` | `[x]` | `[ ]` | Progress (Menunggu Uji Ulang TLS) |
 | 3 | Exploitation Dashboard & API | `[x]` | `[ ]` | `[x]` | `[x]` | `[ ]` | Progress (Menunggu Log & Verifikasi) |
-| 4 | MQTT Unauthorized Access | `[x]` | `[ ]` | `[x]` | `[x]` | `[ ]` | Progress (Menunggu Log & Verifikasi) |
-| 5 | Security Misconfiguration | `[x]` | `[x]` | `[x]` | `[x]` | `[x]` | **Selesai** |
-| 6 | DDoS Resilience Testing | `[x]` | `[x]` | `[x]` | `[x]` | `[x]` | **Selesai** |
+| 4 | Security Misconfiguration | `[x]` | `[x]` | `[x]` | `[x]` | `[x]` | **Selesai** |
+| 5 | DDoS Resilience Testing | `[x]` | `[x]` | `[x]` | `[x]` | `[x]` | **Selesai** |
 
 ---
 
